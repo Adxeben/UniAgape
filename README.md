@@ -3,4 +3,5 @@ Multipage uni webpages.
 
 web dev practice
 
-![10-best-css featured-image](https://user-images.githubusercontent.com/91376824/190901939-ceaa4117-5bf4-4db6-9d45-b0acfb8415f5.jpg)
+![How-to-Learn-Programming](https://user-images.githubusercontent.com/91376824/190902047-69315592-4356-469f-94d0-f5d2f63331d2.png)
+
